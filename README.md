@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### A lazy Chinese.Turn cola🥤 and potato chips🍟 into code. 
+
+### Using translation and poor English
+
+### I love everything about JavaScript. 
+
+### Developing an upper computer based on Electron
 <!--
 **fullmooooon/fullmooooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
