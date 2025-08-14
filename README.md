@@ -1,5 +1,5 @@
 #### Hi there 👋
-#### I am a lazy Chinese.Turn cola🥤 and potato chips🍟 into code. 
+#### I am a Chinese. Lazy , Turn cola🥤 and potato chips🍟 into code. 
 #### Using translation and poor English
 #### I love everything about JavaScript. 
 <!--
